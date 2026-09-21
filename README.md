@@ -1,19 +1,17 @@
 # Bangladesh's Human Development Trajectory and the Digital Divide
 ### A short analytical note using UNDP's Human Development Index, 1990–2023
 
-**Shanjida Sultana Jemey — September 2026**
-
 ---
 
 ## Why this note
 
-BD Digital Access, an earlier project of mine, used the World Bank's open data to map how unevenly internet access, mobile penetration, and literacy are distributed across Bangladesh. This note extends that question to UNDP's own flagship measure of development — the Human Development Index (HDI) — using UNDP's complete 1990–2023 composite indices time series, to ask a more specific version of the same thing: what does Bangladesh's long-run development trajectory actually look like, and where might digital access be one of the forces behind it?
+BD Digital Access, an earlier project of mine, used the World Bank's open data to map how unevenly internet access, mobile penetration, and literacy are distributed across Bangladesh. This note extends that question to UNDP's own flagship measure of development the Human Development Index (HDI), using UNDP's complete 1990–2023 composite indices time series, to ask a more specific version of the same thing, what does Bangladesh's long-run development trajectory actually look like, and where might digital access be one of the forces behind it?
 
 ## What the full trajectory shows
 
-Bangladesh's HDI has risen from **0.397 in 1990 to 0.685 in 2023** — a sustained, nearly uninterrupted climb across 34 years, placing it in the **medium human development** category at rank **130**. The single most notable feature of that trajectory is not the endpoint but the shape of the climb relative to its neighbors.
+Bangladesh's HDI has risen from **0.397 in 1990 to 0.685 in 2023**- a sustained, nearly uninterrupted climb across 34 years, placing it in the **medium human development** category at rank **130**. The single most notable feature of that trajectory is not the endpoint but the shape of the climb relative to its neighbors.
 
-In 1990, Bangladesh (0.397) started behind India (0.446), Nepal (0.404), and Sri Lanka (0.638), and only narrowly ahead of Pakistan (0.396). Over the following three decades, Bangladesh's curve rises more steeply than any of its neighbors except Sri Lanka, and by 2023 it has fully converged with India — both countries now stand at **exactly 0.685**. Bangladesh overtook Nepal by the early 1990s and has held a growing lead over Pakistan throughout. Only Sri Lanka (0.776) remains clearly ahead.
+In 1990, Bangladesh (0.397) started behind India (0.446), Nepal (0.404), and Sri Lanka (0.638), and only narrowly ahead of Pakistan (0.396). Over the following three decades, Bangladesh's curve rises more steeply than any of its neighbors except Sri Lanka, and by 2023 it has fully converged with India, both countries now stand at **exactly 0.685**. Bangladesh overtook Nepal by the early 1990s and has held a growing lead over Pakistan throughout. Only Sri Lanka (0.776) remains clearly ahead.
 
 | Country | HDI (1990) | HDI (2023) | Category (2023) |
 |---|---|---|---|
@@ -35,7 +33,7 @@ What the HDI cannot show is whether that progress is reaching people evenly — 
 
 ## Why this matters here
 
-This note started as a snapshot and turned into something more specific once the full 34-year series was in hand: Bangladesh did not simply grow quickly, it closed a real gap with a larger neighbor while a country that once led the region fell behind. That is the kind of finding that only shows up when you go past the headline number and look at the shape of the trend — which is the habit I would want to bring to the DAI Hub: not just tracking whether a country's indicators are moving in the right direction, but understanding the shape of that movement well enough to ask what is actually driving it, and who it is and isn't reaching yet.
+This note started as a snapshot and turned into something more specific once the full 34-year series was in hand: Bangladesh did not simply grow quickly, it closed a real gap with a larger neighbor while a country that once led the region fell behind. That is the kind of finding that only shows up when you go past the headline number and look at the shape of the trend, which is the habit I would want to bring to the DAI Hub: not just tracking whether a country's indicators are moving in the right direction, but understanding the shape of that movement well enough to ask what is actually driving it, and who it is and isn't reaching yet.
 
 ---
 
