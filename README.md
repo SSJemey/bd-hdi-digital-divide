@@ -39,6 +39,6 @@ This note started as a snapshot and turned into something more specific once the
 
 ## Data and reproducibility
 
-- `bangladesh_south_asia_hdi.csv` — the extracted HDI series (1990–2023) for the five countries used in this analysis.
-- `build_charts.py` — the script that generates both charts from that file. Run with `python3 build_charts.py`.
+- `bangladesh_south_asia_hdi.csv`- the extracted HDI series (1990–2023) for the five countries used in this analysis.
+- `build_charts.py`- the script that generates both charts from that file. Run with `python3 build_charts.py`.
 - Full source dataset (all countries, all years): UNDP Human Development Report Office, ["All composite indices and components time series (1990–2023)"](https://hdr.undp.org/data-center/documentation-and-downloads).
